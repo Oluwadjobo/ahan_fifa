@@ -1,0 +1,7 @@
+{
+  "name": "Ahan Fifa - Livraison de boissons fraîches",
+  "description": "Plateforme moderne de commande de boissons fraîches à Abomey-Calavi. Livraison rapide de packs de bières et sucreries pour vos événements.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
